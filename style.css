@@ -1,0 +1,51 @@
+#title {
+    font-size: 400%;
+    width: 60vmax;
+  }
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
+body {
+    background-color: rgb(231, 175, 55);
+    color: rgb(31, 21, 21);
+    font-family: "Nunito", sans-serif;
+    min-height: 100vh;
+}
+
+
+#image {
+    max-width: 90%;
+    height: auto;
+    display: block;
+  }
+
+
+  @media only screen and (min-width:480px)
+  {
+
+  }
+
+  @media only screen and (min-width:767px)
+  {
+
+  }
+
+  @media only screen and (min-width:991px)
+  {
+
+  }
+
+  @media only screen and (min-width:1200px)
+  {
+ .font {
+    padding: 0px 200px 15px 200px;
+        }
+  }
+
+  @media(orientation: landscape)
+  {
+
+  }
